@@ -1,0 +1,27 @@
+{
+  "name": "e_school",
+  "version": "1.0.0",
+  "description": "Working with html,css and bootstrap ",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"hello bootstrap\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa135790/E_school.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Asadujjaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa135790/E_school/issues"
+  },
+  "homepage": "https://github.com/sa135790/E_school#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
