@@ -46,6 +46,31 @@
     margin-top: 50px;
 }
 
+/* Navbar closed */
+
+/* Started with middle part */
+.card-body{
+    background-color: rgb(227, 252, 252);
+}
+
+
+.card-body img{
+    height: 100px;
+    width: 100px;
+    margin-left:50px; 
+}
+
+.card-title{
+    margin-top: 20px;
+}
+
+.box-shadow{
+    
+    box-shadow: 2px 20px 5px 15px whitesmoke;
+    background-color: white;
+}
+
+
       
     
     
