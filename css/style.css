@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar a img{
+    height: 70px;
+    width: 200px;
+}
+
+.wrapper {
+    background-color: rgb(238, 253, 253); 
+    padding: 20px; 
+}
+
+.container{
+    height: 500px;
+    margin-top: 0px;
+}
+
+.custom-menu a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.custom-link{
+   
+    background-color: green;
+    border-radius: 20px;
+    padding: 5px 20px;
+   
+}
+
+.font-color{
+    color: green;
+}
+
+.custom-image{
+    height: 300px;
+    width: 500px;
+}
+
+.custom-container{
+    margin-top: 50px;
+}
+
+      
+    
+    
